@@ -71,3 +71,11 @@ merge the specified branch’s history into the current one
 show all commits in the current branch’s history
 
 
+ ## 4 GitHub commands that will be most likely used often in the real project as they are basic commands. They are used to commit new changes to the remote repository under new branches.
+
+
+1. git checkout
+2. git commit -m "message"
+3. git push
+4. git pull
+
